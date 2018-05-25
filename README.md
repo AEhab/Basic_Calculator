@@ -1,2 +1,2 @@
 # Basic_Calculator
-Basic calculator which can handle + - * /  (  ) 
+Basic calculator is a console application made by using C++ which can handle + - * /  (  )
